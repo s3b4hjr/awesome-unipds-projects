@@ -76,8 +76,9 @@ Web applications and browser-based experiences powered by machine learning or AI
 
 Projects that connect services, automate workflows, or react to events.
 
-<!-- Add your project here. See CONTRIBUTING.md for the entry format. -->
-*No projects yet — be the first to submit one!*
+- [mjunior/whatsapp-ai-pix-agent](https://github.com/mjunior/whatsapp-ai-pix-agent) `📇` `🔗` – An AI agent that charges my wife via PIX when she asks for favors on WhatsApp. **by [@mjunior](https://github.com/mjunior)**
+
+
 
 ---
 
