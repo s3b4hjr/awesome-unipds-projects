@@ -70,6 +70,7 @@ Web applications and browser-based experiences powered by machine learning or AI
 - [DiogoOrdine/game-eclipse-ai-agent](https://github.com/DiogoOrdine/game-eclipse-ai-agent) `📇` `🏠` – Adaptation of the Eclipse game integrating a YOLOv5n neural network running with TensorFlow.js inside a Web Worker. **by [@DiogoOrdine](https://github.com/DiogoOrdine)**
 - [Douglas-sm/game-flapbird](https://github.com/Douglas-sm/game-flapbird) `📇` `🏠` – Pixel art Flappy Bird game with an AI that trains itself in the browser using Canvas 2D and TensorFlow.js. **by [@Douglas-sm](https://github.com/Douglas-sm)**
 - [SyanCS/dr_nala_breed_recommendation](https://github.com/SyanCS/dr_nala_breed_recommendation) `📇` `🏠` – AI-first dog breed recommendation app that trains a TensorFlow compatibility classifier, persists model artifacts in PostgreSQL, and serves ranked recommendations from a browser web worker with a rule-based fallback. **by [@SyanCS](https://github.com/SyanCS)**
+- [thabata-marchi/portuguese-alphabet-game](https://github.com/thabata-marchi/portuguese-alphabet-game) `📇` `🏠` – Pre-literacy educational game for children that teaches the Portuguese alphabet using voice recognition and adaptive AI. **by [@thabata-marchi](https://github.com/thabata-marchi)**
 
 ---
 
