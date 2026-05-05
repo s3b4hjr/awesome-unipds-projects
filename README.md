@@ -107,3 +107,9 @@ Anything that doesn't fit neatly into the categories above.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for submission guidelines.  
 Questions? Open an issue or reach out on the course community channel.
+
+## Thanks
+
+A special thanks to all our amazing contributors 💚🇧🇷
+
+<a href="https://github.com/unipds-engenharia-de-ia-aplicada/awesome-unipds-projects/graphs/contributors"><img src="https://contrib.rocks/image?repo=unipds-engenharia-de-ia-aplicada/awesome-unipds-projects" /></a>
