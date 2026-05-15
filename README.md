@@ -98,6 +98,7 @@ CLIs, libraries, helpers, and developer tools powered by AI.
 
 <!-- Add your project here. See CONTRIBUTING.md for the entry format. -->
 - [ElizioMartins/projeto-00-ibge-tensores](https://github.com/ElizioMartins/projeto-00-ibge-tensores) `📇` `🏠` – Population Predictor using IBGE demographic data and Machine Learning. **by [@ElizioMartins](https://github.com/ElizioMartins)**
+- [ftonato/auris](https://github.com/ftonato/auris) `📇` `☁️` – Production-grade Node.js RAG system with hybrid retrieval, pluggable adapters, and OpenTelemetry tracing. **by [@ftonato](https://github.com/ftonato)**
 - [lucas-figueiredo-m/radar](https://github.com/lucas-figueiredo-m/radar) `📡` `🪲` - An integrated React Native DevTools with console, networking, native metrics and more, powered with an MCP for AI-assisted debugging. **by [@lucas-figueiredo-m](https://github.com/lucas-figueiredo-m)**
 - [ftuyama/scroll-closing-your-eyes](https://github.com/ftuyama/scroll-closing-your-eyes) `🐍` `🏠` – Hands-free scrolling driven by eye closure (left eye up, right eye down) using the webcam, MediaPipe Face Landmarker, and PyAutoGUI, with blink filtering and “look straight” gating. **by [@ftuyama](https://github.com/ftuyama)**
 ---
